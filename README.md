@@ -9,7 +9,7 @@ The real test cases might have similar structures but will not have the same has
 Please do the following in order to run the test cases.
 
 ```
-git clone https://github.com/Rustinante/topo-ordered-commits-test-suite.git
+git clone https://github.com/DennisVanEe/topo-ordered-commits-test-suite.git
 cd topo-ordered-commits-test-suite
 python3 -m venv venv
 source venv/bin/activate
